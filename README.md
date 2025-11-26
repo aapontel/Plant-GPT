@@ -129,3 +129,4 @@ Una vez calibrado aún tarda un tiempo considerable en dar lecturas corrects (10
 
 
 
+<img width="2357" height="1059" alt="image" src="https://github.com/user-attachments/assets/5965d3fa-ca44-491f-a61b-ac96a922375f" />
